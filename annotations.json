@@ -1,0 +1,19 @@
+{
+    "1.jpg": {
+        "labels": {
+            "label": "Negative"
+        },
+        "flags": [
+            "Foo/Bar/foo_bar_1"
+        ]
+    },
+    "2.jpg": {
+        "labels": {
+            "label": "Positive"
+        },
+        "flags": [
+            "Foo/Bar/foo_bar_1",
+            "Foo/Bar/foo_bar_2"
+        ]
+    }
+}
